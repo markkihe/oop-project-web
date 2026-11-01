@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+
+.pytest_cache/
+best_model.h5
+train/
+valid/
+test/
